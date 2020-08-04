@@ -4,7 +4,7 @@
 
 COVID-19 Tracker is being sponsored by the following tool; please help to support us by taking a look and signing up to a free trial.
 
-<a href="https://tracking.gitads.io/?repo=project_corona_tracker">
+<a href="https://friendly-volhard-04a0a7.netlify.app/">
  <img src="https://images.gitads.io/project_corona_tracker" alt="GitAds"/> 
 </a>
 
